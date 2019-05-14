@@ -25,7 +25,7 @@ SECRET_KEY = 'ksf(x-_+$ibwx0z)j=f-0ejz3zbv&aj$46w+ehfm+e1sbma*lm'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'olga.hlg.prozero.xyz']
+ALLOWED_HOSTS = ['127.0.0.1', 'chw21uhfgxcc.lifeoncore.app']
 
 
 # Application definition
@@ -37,7 +37,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-	'blog',
+    'blog',
 ]
 
 MIDDLEWARE = [
